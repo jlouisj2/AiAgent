@@ -1,2 +1,1 @@
-cd calculator
-python3 -c "print('Lorem ipsum ' * 2000)" > lorem.txt
+wait, this isn't lorem ipsum
